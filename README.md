@@ -1,4 +1,4 @@
 # Test
 upload test
 
-Use C++ to simulate how MIPS work.
+2017_12_29 Today is a good day.
